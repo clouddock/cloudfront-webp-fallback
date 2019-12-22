@@ -1,0 +1,11 @@
+{
+    "name": "@clouddock/hss-cloudfront-fallback",
+    "version": "1.0.0",
+    "description": "AWS lambda processes CloudFront requests and converts old image formats to WebP.",
+    "main": "index.js",
+    "author": "Jiří Svěcený",
+    "license": "ISC",
+    "dependencies": {
+        "useragent": "~2.3"
+    }
+}
