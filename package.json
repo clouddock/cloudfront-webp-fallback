@@ -1,5 +1,5 @@
 {
-    "name": "@clouddock/hss-cloudfront-fallback",
+    "name": "@clouddock/cloudfront-fallback",
     "version": "1.0.0",
     "description": "AWS lambda processes CloudFront requests and converts old image formats to WebP.",
     "main": "index.js",
